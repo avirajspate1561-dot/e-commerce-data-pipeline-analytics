@@ -592,12 +592,3 @@ Possible future improvements include:
 **Aviraj Ananda Sapate**
 
 Data Analyst → MLOps / Data Engineering
-
-GitHub:
-https://github.com/YOUR_USERNAME
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
